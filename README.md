@@ -8,8 +8,6 @@ This project is designed to scrape web articles related to Environmental, Social
 - [Usage](#usage)
 - [Project Workflow](#project-workflow)
 - [ESG Sentiment Analysis](#esg-sentiment-analysis)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
