@@ -10,8 +10,12 @@ A new implementation will be done so scraping the old implementation.
 - Compatibility with new platforms/tools
 
 
-![Updating...](./scrap/upload-loading.gif)  
+<p align="center">
+  <img src="./scrap/upload-loading.gif" alt="Updating..." width="400" />
+</p> 
 
+---
 
+Check back soon — or watch the repo to stay updated.
 
 
